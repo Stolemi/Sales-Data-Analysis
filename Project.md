@@ -18,9 +18,15 @@ The code [Data Preparation](1_DataPreparation.sql) creates the initial table and
    * State, city, zipcode of purchase address
    * Month, hour of purchase
 
-![](Screenshots/SQL2.png)
-![](Screenshots/SQL3.png)
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL2.png" width = 80% height=80%>
+</p>
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL3.png" width = 30% height=30%>
+</p>
 
 The dataset for the analysis is structured as shown hereafter:
 
-![](Screenshots/SQL14.png)
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL14.png" width = 90% height=100%>
+</p>
