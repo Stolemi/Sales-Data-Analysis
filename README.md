@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-Personal project to practice data analysis using SQL (MySQL) and visualization of results through Tableau. 
+Personal project to practice data analysis using SQL (MySQL) and visualization through Tableau. 
 
 Skills used:
   1. SQL: <br />
