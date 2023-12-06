@@ -1,6 +1,6 @@
 ## Goal 
 
-The analysis of sales data aim to answer to the following questions from management in order to efficiently plan the advertisement campaign for 2020: 
+The analysis of sales data from an IT-reseller aims at answering the following questions in order to efficiently plan and implement the advertisement campaign for 2021: 
 
    1. What is the best month for sales? What is the total revenue in the highest selling month?
    2. What is the best day of the month for sales? Is there an increase in sales after payday, i.e. after the 25th of the month?
@@ -21,6 +21,6 @@ The code [Data Preparation](1_DataPreparation.sql) creates the initial table and
 ![](Screenshots/SQL2.png)
 ![](Screenshots/SQL3.png)
 
-The dataset for analysis is structured as shown hereafter:
+The dataset for the analysis is structured as shown hereafter:
 
 ![](Screenshots/SQL14.png)
