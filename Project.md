@@ -30,3 +30,7 @@ The dataset for the analysis is structured as shown hereafter:
 <p align = "center">
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL14.png" width = 90% height=100%>
 </p>
+
+## Explorative Data Analysis
+
+* Question 1: What is the best month for sales? What is the total revenue in the highest selling month?
