@@ -3,7 +3,7 @@ Personal project to practice data analysis using SQL (MySQL) and visualization o
 
 Skills used:
   1. SQL:
-         * string functions: SUBSTR(), SUBSTRING_INDEX(), CONCAT(); \\
+         * string functions: SUBSTR(), SUBSTRING_INDEX(), CONCAT(); <br />
          * date functions: EXTRACT();
          * CTE and Temporary Tables;
          * Joins and Unions;
