@@ -11,6 +11,11 @@ The analysis of sales data aim to answer to the following questions from managem
 
 ## Data
 
-The original dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/beekiran/sales-data-analysis) and contains 11 variables and 185950 records. Certains variables (month, hour, state, city) have been dropped and recreated in SQL to practice string and date functions. 
+The original dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/beekiran/sales-data-analysis). It contains 11 variables and 185950 records. Certains variables (month, hour, state, city) have been dropped and recreated in SQL to practice string and date functions. 
 
-![](Screenshots/SQL1)
+The code [Data Preparation](DataPreparation.sql) create the initial table and load the data from the .csv file. It then create the following variables: 
+   * State, city, zipcode of purchase address
+   * Month, hour of purchase
+
+
+![](Screenshots/SQL1.png)
