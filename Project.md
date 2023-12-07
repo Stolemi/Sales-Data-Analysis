@@ -1,6 +1,6 @@
 ## Goal 
 
-The analysis of sales data from an IT-reseller aims at answering the following questions in order to efficiently plan and implement the advertisement campaign for 2021: 
+This analysis of sales data from an IT-reseller aims at answering the following questions in order to efficiently plan and implement the advertisement campaign for 2021: 
 
    1. What is the best month for sales? What is the total revenue in the highest selling month?
    2. What is the best day of the month for sales? Is there an increase in sales after payday?
@@ -57,4 +57,13 @@ The hours with the most products ordered are 11am, 12pm and 7pm, suggesting ther
 
 <p align = "center">
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau3.png" width = 90% height=100%>
+</p>
+
+<br />
+* Question 4: What cities sold the most product? What is their total yearly revenue? 
+
+The top 3 highest selling cities are: San Francisco (CA), Los Angeles (CA), and New York City (NY). Around 50'000 products have been sent to an address in San Francisco, for a total of slightly over 8M US$ in sales made from these purchases. 
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL18.png" width = 20% height=40%>
 </p>
