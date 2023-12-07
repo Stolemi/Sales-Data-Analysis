@@ -14,6 +14,10 @@ Skills used:
            - Creation of interactive dashboard and dashboard actions (filters); <br />
            - Graph formatting. <br />
 
+SQL code: 
+  * [Data Prapartion](1_DataPreparation.sql)
+  * [Explorative Data Analysis](2_EDA.sql)
+
 The Tableau dashboard is available at : [Sales Dashboard](https://public.tableau.com/app/profile/emiliano.stolz/viz/SalesDashboard_17017186211860/Dashboard1)
 
 Source data "Sales Data": https://www.kaggle.com/datasets/beekiran/sales-data-analysis
