@@ -113,7 +113,7 @@ The product bundle that sold the most is "iPhone - Lighting charging cable", wit
 
 ## Coclusions
 
-In this analysis different procedures and functions available in SQL have been used in order to extrapolate insights from data on sales registered by an IT-reseller in 2019. The main conclusions can be summarized as follow: 
+This analysis applies different SQL procedures and functions in order to extrapolate useful insights for the planning of future advertisement campaign from data on sales registered by an IT-reseller in 2019. The main conclusions can be summarized as follow: 
    * December is the best selling month, mainly due to the presence of festivities such as Christmas for which IT-product are a favorite. The advertisement campaign should therefore focus more on months with lower selling numbers, such as January, that have margin of improvement. 
    * There is no evidence to support the hypothesis that people purchase more after receiving their monthly salary. The planning of future advertisement campaigns should focus on other aspects, such as the hours in which displaying the ads. The data shows that purchases are frequently done around 11am-12pm and 7pm, which should be targeted with ads to sponsor products difficult to sell (dryers, laptops, etc.).
    * The major US cities registered the most orders as well as the highest sales. These cities are the economic centers of the country and especially California host most tech-companies, making them top customer for IT-products.
