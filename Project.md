@@ -46,5 +46,5 @@ In 2019 a total of 178'437 orders have been made for a total of 34'499'750 US$ i
 We don't observe a clear trend in sales and order made with respect to the days of the month, even though the 26th and 27th of the month figure among the days with most orders registered,
 
 <p align = "center">
-  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL16.png" width = 90% height=100%>
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL17.png" width = 20% height=40%>
 </p>
