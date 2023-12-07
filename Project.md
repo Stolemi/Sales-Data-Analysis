@@ -7,7 +7,7 @@ This analysis of sales data from an IT-reseller aims at answering the following 
    3. What time should we diplay advertisements to maximize the likelihood of customers buying product? 
    4. What cities sold the most product? What is their total yearly revenue? 
    5. What is the average monthly number of orders and sales in each state? 
-   6. What product bundle sell the most?
+   6. What product sold the most and is there a product bundle that sold particularly good?
 
 ## Data
 
@@ -82,5 +82,33 @@ The graph below shows the evolution of average monthly sales across 2019 for eac
 <p align = "center">
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau5.png" width = 90% height=100%>
 </p>
+
+#### **Question 6**: What product sold the most and is there a product bundle that sold particularly good?
+
+The graph on quantity sold of each product and their price shows that there is as expected an inverse relationship between the quantity sold and unit price. Batteries and charging cables sold a lot. Only few dryers and washing machines have been sold in 2019, due to their longer lifecycle.
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau6.png" width = 90% height=100%>
+</p>
+
+The product bundle that sold the most is "iPhone - Lighting charging cable", with 1'005 unit sold. In all the top 5 product bundles sold we find the pair *phone - accessory*. 
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau7.png" width = 90% height=100%>
+</p>
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL10.png" width = 60% height=80%>
+</p>
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL11.png" width = 60% height=80%>
+</p>
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL12.png" width = 40% height=60%>
+</p>
+
+
 
 
