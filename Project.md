@@ -13,7 +13,7 @@ This analysis of sales data from an IT-reseller aims at answering the following 
 
 The original dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/beekiran/sales-data-analysis). It contains 11 variables and 185950 records of products ordered in 2019. Certains variables (month, hour, state, city) have been dropped and recreated in SQL to practice string and date functions. 
 
-The code [Data Preparation](1_DataPreparation.sql) creates the initial table and load the data from the .csv file. It then adds the following variables: 
+The SQL code [Data Preparation](1_DataPreparation.sql) creates the initial table and load the data from the .csv file. It then adds the following variables: 
    * Total sales (revenue)
    * State, city, zipcode of purchase address
    * Month, hour of purchase
@@ -32,6 +32,8 @@ The dataset for the analysis is structured as shown hereafter:
 </p>
 
 ## Explorative Data Analysis
+
+Complete SQL code [Explorative Data Analysis](2_EDA.sql)
 
 #### **Question 1**: What is the best month for sales? What is the total revenue in the highest selling month?
 
@@ -108,6 +110,9 @@ The product bundle that sold the most is "iPhone - Lighting charging cable", wit
 <p align = "center">
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL12.png" width = 40% height=60%>
 </p>
+
+## Coclusions
+
 
 
 
