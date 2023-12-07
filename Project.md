@@ -33,7 +33,7 @@ The dataset for the analysis is structured as shown hereafter:
 
 ## Explorative Data Analysis
 
-* Question 1: What is the best month for sales? What is the total revenue in the highest selling month?
+** Question 1**: What is the best month for sales? What is the total revenue in the highest selling month?
 
 In 2019 a total of 178'437 orders have been made for a total of 34'499'750 US$ in sales. As the chart below shows, December has been the best month both in terms or quantity of orders registered and total sales made, respectively around 24 thousand orders and 4.5M US$ in sales. IT products such as pc, iPhone, headphones, and others, are a favorite gifts made for Christmass. 
 
@@ -41,10 +41,20 @@ In 2019 a total of 178'437 orders have been made for a total of 34'499'750 US$ i
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau1.png" width = 90% height=100%>
 </p>
 
-* Question 2: What is the best day of the month for sales? Is there an increase in orders after payday?
+<br />
+**Question 2**: What is the best day of the month for sales? Is there an increase in orders after payday?
 
 We don't observe a clear trend in sales and order made with respect to the days of the month, even though the 26th and 27th of the month figure among the days with most orders registered,
 
 <p align = "center">
   <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL17.png" width = 20% height=40%>
+</p>
+
+<br />
+**Question 3**: What time should we diplay advertisements to maximize the likelihood of customers buying product?
+
+The hours with the most products ordered are 11am, 12pm and 7pm, suggesting therefore that the best time to display product advertisement is slightly before 11am and/or 7pm. 
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau3.png" width = 90% height=100%>
 </p>
