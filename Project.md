@@ -64,5 +64,23 @@ The hours with the most products ordered are 11am, 12pm and 7pm, suggesting ther
 The top 3 highest selling cities are: San Francisco (CA), Los Angeles (CA), and New York City (NY). Around 50'000 products have been sent to an address in San Francisco, for a total of slightly over 8M US$ in sales made from these purchases. 
 
 <p align = "center">
-  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL18.png" width = 20% height=40%>
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL18.png" width = 30% height=50%>
 </p>
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau4.png" width = 90% height=100%>
+</p>
+
+* **Question 5**: What is the average monthly number of orders and sales in each state?
+
+The graph below shows the evolution of average monthly sales across 2019 for each state. We can observe that for all the states with the exception of Maine, the average sales are approximately constant over the entire year and remain in the range 170-200 US$. 
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/SQL9.png" width = 60% height=80%>
+</p>
+
+<p align = "center">
+  <img src="https://github.com/Stolemi/Sales-Data-Analysis/blob/main/Screenshots/Tableau5.png" width = 90% height=100%>
+</p>
+
+
